@@ -12,6 +12,7 @@
         </style>
     </head>
     <body>
+        <h1>Подписка на рассылку</h1>
         <div class="pure-g-r">
             <div class="pure-u-1-2">
                 <div class="l-box">
